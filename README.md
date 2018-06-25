@@ -15,7 +15,6 @@
 
 * In this project I learned many new css and html tecniques such as a hover in css which reflect a change when a mouse cursor is moved on that particular thing. 
 
-* I also learned how to properly name my class name which I assign in html.
 
 
 
