@@ -1,8 +1,8 @@
 # ANIMAL CARD
 
-* This is the animal card which illustrate the infromation  of a animal which coud be a bird, reptile or a mammal.
+* This is the animal card which illustrate the information  of a animal which coud be a bird, reptile or a mammal.
 
-* My animal card consist of a EAGLE image at the top and two sections which contain all the information related to eagle.
+* My animal card consist of a Lion image at the top along with the some details about Lion.
 
 ## MAIN FILES
 ```
@@ -15,7 +15,6 @@
 
 * In this project I learned many new css and html tecniques such as a hover in css which reflect a change when a mouse cursor is moved on that particular thing. 
 
-* I also learned how to properly name my class name which I assign in html.
 
 
 
